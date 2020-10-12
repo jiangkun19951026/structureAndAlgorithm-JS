@@ -1,4 +1,5 @@
 function insertionSort(arr) {
+    //得到长度
     let length = arr.length
 
     for(let i = 1; i < length; i++) {
